@@ -56,7 +56,7 @@ Atualmente estou me especializando em automação de processos, extração de da
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-almeida-justino-8454b423b/
+- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-almeida-justino-8454b423b/
 - 💻 GitHub: https://github.com/GuilhermeAJJ
 - ✉️ E-mail: guilhermetphh@gmail.com
 
