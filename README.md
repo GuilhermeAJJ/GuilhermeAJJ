@@ -53,20 +53,12 @@ Atualmente estou me especializando em automação de processos, extração de da
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="start">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN
-- 💻 GitHub: https://github.com/SEU_USUARIO_GITHUB
-- ✉️ E-mail: seuemail@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-almeida-justino-8454b423b/
+- 💻 GitHub: https://github.com/GuilhermeAJJ
+- ✉️ E-mail: guilhermetphh@gmail.com
 
 ---
 
