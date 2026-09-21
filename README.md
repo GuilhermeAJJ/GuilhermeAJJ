@@ -1,69 +1,74 @@
-# 🤖 Guilherme Justino
+<h1 align="center">Guilherme Almeida Justino</h1>
 
-**Desenvolvedor RPA | Power Automate | C# | Automação de Processos**
+<p align="center">
+  <b>Analista de Desenvolvimento Júnior II na Eval Digital</b><br>
+  Backend · Integração de IA · Azure AI Engineer (AI-102)
+</p>
 
-Sou desenvolvedor focado em **RPA (Robotic Process Automation)**, criando soluções que automatizam tarefas repetitivas, integrações entre sistemas e processos manuais, utilizando **Power Automate**, **C#**, **HTML** e **CSS**.
-
-Atualmente estou me especializando em automação de processos, extração de dados, leitura de documentos, preenchimento automático de sistemas e criação de interfaces simples para demonstração de projetos.
-
----
-
-## 🚀 Sobre mim
-
-- 💼 Foco em **RPA e Automação de Processos**
-- ⚙️ Experiência com **Power Automate Desktop e Cloud**
-- 💻 Desenvolvimento em **C# (.NET)**
-- 🎨 Interfaces simples com **HTML + CSS**
-- 📊 Automações para:
-  - Leitura e digitação de dados
-  - Extração de PDFs, e-mails e planilhas
-  - Integrações entre sistemas
-  - Simulação de ações humanas (mouse e teclado)
-
----
-
-## 🔧 Ferramentas e Tecnologias
-
-<p align="start">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gjustino/">LinkedIn</a> ·
+  <a href="mailto:guilhermetphh@gmail.com">E-mail</a> ·
+  Santos, SP
 </p>
 
 ---
 
-## 📂 Projetos de RPA
+## Sobre
 
-🔹 **Automação de Cadastro de Clientes**
-- Leitura de dados via e-mail ou planilha
-- Preenchimento automático em sistemas web
-- Validação e confirmação via Teams
+Sou desenvolvedor backend com foco em integrar **Inteligência Artificial a sistemas reais**.
 
-🔹 **Extração e Processamento de Documentos**
-- PDFs, faturas e formulários
-- Uso de modelos de IA no Power Automate
-- Armazenamento estruturado dos dados
+Na **Eval Digital**, trabalho com **Python** no backend de uma plataforma de **cibersegurança (SOC) orientada a IA**: APIs, dados e agentes de IA.
 
-🔹 **RPA com Interface Visual**
-- Front-end simples em HTML e CSS
-- Backend em C# para controle do processo
-- Ideal para demonstrações e portfólio
+Cheguei aqui pelo caminho da operação: comecei no suporte e na infraestrutura de TI, passei por **RPA e automação** (Power Automate, n8n) e depois pelo desenvolvimento em **C#/.NET**, conectando LLMs a aplicações com **Semantic Kernel**, **Azure AI Foundry** e **Document Intelligence**. Essa base me deu visão sistêmica para enxergar onde automação e IA resolvem problemas de verdade.
+
+**Formação:** Análise e Desenvolvimento de Sistemas, Universidade Cruzeiro do Sul (conclusão prevista para 12/2026)
+
+## Certificações
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft Certified: Azure AI Engineer Associate">
+      </a>
+      <br><b>Azure AI Engineer Associate</b>
+      <br><sub>AI-102 · jun/2026</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="Microsoft Certified: Azure AI Fundamentals">
+      </a>
+      <br><b>Azure AI Fundamentals</b>
+      <br><sub>AI-900 · mar/2026</sub>
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | Python · C# (.NET 8) · SQL |
+| **Backend e APIs** | FastAPI · GraphQL (Strawberry) · SQLAlchemy · ASP.NET Minimal APIs · REST e webhooks |
+| **IA** | Azure AI Foundry · Azure OpenAI · Document Intelligence · Semantic Kernel · agentes de IA · MCP |
+| **Dados** | PostgreSQL · Redis · OpenSearch · SQL Server · Oracle · Cosmos DB |
+| **Cloud e DevOps** | Azure (Functions, Event Grid, Blob Storage, Bicep) · Docker · GitLab CI |
+| **Automação** | n8n · Power Automate (RPA) |
+
+## Projetos em destaque
+
+### [DocPipeline](https://github.com/GuilhermeAJJ/DocPipeLine) — processamento inteligente de faturas
+
+Pipeline serverless e orientado a eventos no Azure. O **Document Intelligence** extrai os campos de cada fatura, o score de confiança decide entre aprovação automática e **revisão humana** (fila em Blazor) e o **Azure OpenAI** resume e categoriza o documento. Infraestrutura como código em **Bicep**, autenticação por **Managed Identity** (nenhum segredo na aplicação) e observabilidade no **Application Insights**.
+
+`C# .NET 8` `Azure Functions` `Event Grid` `Document Intelligence` `Azure OpenAI` `Cosmos DB` `Blazor` `Bicep`
+
+### [AI-Agent-SQLserver](https://github.com/GuilhermeAJJ/AI-Agent-SQLserver) — agente de agendamentos no WhatsApp
+
+Agente de IA que recebe perguntas em linguagem natural pelo WhatsApp e consulta os agendamentos direto no SQL Server. Construído para a operação de uma agência marítima.
+
+`n8n` `LLM` `SQL Server` `Evolution API` `Docker`
 
 ---
 
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-almeida-justino-8454b423b/
-- 💻 GitHub: https://github.com/GuilhermeAJJ
-- ✉️ E-mail: guilhermetphh@gmail.com
-
----
-
-## 🎯 Objetivo
-
-Criar soluções de **RPA eficientes, escaláveis e inteligentes**, reduzindo custos operacionais e aumentando a produtividade através da automação.
-
-📌 *Este repositório é voltado para estudos, projetos práticos e demonstrações profissionais de automação.*
+<p align="center"><i>"IA bem aplicada é sobre resolver o problema certo — não sobre seguir o hype."</i></p>
