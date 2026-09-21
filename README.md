@@ -28,14 +28,14 @@ Cheguei aqui pelo caminho da operação: comecei no suporte e na infraestrutura 
 <table>
   <tr>
     <td align="center" width="220">
-      <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/">
+      <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeJustino-6711/2DFA08CD80CC3DCA?sharingId=11558A9333E36BA0/">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft Certified: Azure AI Engineer Associate">
       </a>
       <br><b>Azure AI Engineer Associate</b>
       <br><sub>AI-102 · jun/2026</sub>
     </td>
     <td align="center" width="220">
-      <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/">
+      <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeJustino-6711/51F2527C6E88967B?sharingId=11558A9333E36BA0">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="Microsoft Certified: Azure AI Fundamentals">
       </a>
       <br><b>Azure AI Fundamentals</b>
