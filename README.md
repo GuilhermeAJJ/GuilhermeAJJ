@@ -21,7 +21,7 @@ Na **Eval Digital**, trabalho com **Python** no backend de uma plataforma de **c
 
 Cheguei aqui pelo caminho da operação: comecei no suporte e na infraestrutura de TI, passei por **RPA e automação** (Power Automate, n8n) e depois pelo desenvolvimento em **C#/.NET**, conectando LLMs a aplicações com **Semantic Kernel**, **Azure AI Foundry** e **Document Intelligence**. Essa base me deu visão sistêmica para enxergar onde automação e IA resolvem problemas de verdade.
 
-**Formação:** Análise e Desenvolvimento de Sistemas, Universidade Cruzeiro do Sul (conclusão prevista para 12/2026)
+**Formação:** Análise e Desenvolvimento de Sistemas, Universidade Cruzeiro do Sul (conclusão prevista para 08/2027)
 
 ## Certificações
 
